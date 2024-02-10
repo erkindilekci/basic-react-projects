@@ -1,0 +1,33 @@
+const text = [
+    `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquet quam eu lectus fermentum, non mattis arcu consectetur. Sed bibendum justo vel augue vulputate, ac lacinia velit congue.`,
+    `Vestibulum euismod purus in justo commodo, a facilisis metus mattis. Morbi consectetur velit nec arcu fringilla, ut commodo velit laoreet. Quisque nec risus eu odio rhoncus hendrerit.`,
+    `Suspendisse potenti. Integer vel nisl vitae turpis fermentum bibendum. Vivamus lacinia justo vel arcu fermentum, vel pharetra libero volutpat. Ut vel lacinia ligula.`,
+    `Phasellus scelerisque urna vel cursus cursus. Proin at libero non leo pellentesque tincidunt id nec elit. Aliquam eu neque at nisl commodo scelerisque.`,
+    `Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam vel dui eget mi blandit bibendum vel vel nulla. Ut luctus, nisl at vulputate ultrices, lectus odio dapibus turpis, ac malesuada turpis justo et justo.`,
+    `Donec eu nunc non lacus dignissim ultricies. Sed quis turpis vitae tortor tincidunt scelerisque. Integer tincidunt felis in ligula rhoncus, id lacinia urna malesuada.`,
+    `Curabitur auctor enim nec mauris sodales, vel volutpat ex convallis. Morbi elementum leo vel nunc tincidunt, vel sollicitudin nunc finibus. Proin auctor, metus a fringilla dapibus, elit dolor volutpat neque, sit amet pharetra felis justo vitae urna.`,
+    `Nam ac mi vel est euismod pharetra. Fusce tristique risus nec sapien ultricies, ut consequat dui fringilla. Suspendisse potenti. Sed ut lectus non orci tincidunt malesuada ut eget ipsum.`,
+    `Duis in justo nec purus sagittis facilisis. Pellentesque sit amet lacus eget purus vehicula eleifend. Nam vel nisl id odio bibendum lacinia. Vestibulum consectetur odio a magna pharetra, sit amet fermentum nisi efficitur.`,
+    `Nullam interdum, ex ut venenatis volutpat, tortor dolor varius quam, ut facilisis quam nisi vel lacus. Praesent ut nunc quis nisl ultrices dignissim sit amet vel libero.`,
+    `Quisque varius, odio in vulputate interdum, augue ligula hendrerit libero, eget consequat elit orci vel tellus. Etiam vitae nisi vel lectus ullamcorper convallis.`,
+    `Maecenas facilisis diam vel nisi feugiat, id fermentum augue semper. Integer aliquet, augue sit amet lacinia varius, nulla lacus facilisis tellus, at posuere nisi ex vitae nisl.`,
+    `Fusce euismod justo vel ipsum dictum, in volutpat nunc vulputate. Sed et nibh at dui tincidunt vehicula vel non metus. Curabitur id metus nec quam venenatis venenatis.`,
+    `Integer ut elit quis ligula consectetur scelerisque. Duis varius mauris vel eros aliquet, nec ultrices sapien ultrices. Morbi in est a mauris volutpat facilisis.`,
+    `Nunc at dolor in elit imperdiet vulputate. Sed fermentum, ipsum nec tincidunt efficitur, mi odio dictum ligula, ut hendrerit tortor purus in ex.`,
+    `Aliquam auctor, libero vel fermentum tincidunt, mauris sapien tristique justo, id vestibulum leo justo eu tortor. Sed eleifend metus eget elit ultricies dapibus.`,
+    `Cras auctor felis non tellus fermentum, vel varius nulla egestas. Nulla facilisi. Nam ac ultrices urna, a fringilla leo. Praesent facilisis purus in turpis lacinia bibendum.`,
+    `In hac habitasse platea dictumst. Morbi nec neque eu mauris facilisis facilisis id ut libero. Nam accumsan turpis sit amet libero bibendum, et pharetra tortor efficitur.`,
+    `Quisque vel augue vel neque vulputate sagittis in ut mi. Ut auctor, velit non volutpat ultricies, nunc metus lacinia dui, id accumsan est quam id ligula.`,
+    `Vivamus et lacus ut ex feugiat laoreet ut at lectus. Nullam id dolor sed ipsum dapibus aliquet ac vitae felis. Etiam euismod dolor vel nisl facilisis, et fermentum odio posuere.`,
+    `Sed auctor ligula at consectetur laoreet. Morbi sagittis, velit a consequat tincidunt, nulla erat volutpat arcu, vel scelerisque nunc odio eget mauris.`,
+    `Nam ullamcorper, turpis et pellentesque rhoncus, felis tortor volutpat urna, nec iaculis ex elit vel quam. Nulla facilisi. Proin congue ultricies dui, in ultrices elit sodales vel.`,
+    `Curabitur malesuada purus nec velit ullamcorper, ut ultricies libero vestibulum. Aliquam bibendum hendrerit lectus vitae ultrices. Ut nec nisl fringilla, vehicula justo ac, luctus justo.`,
+    `Integer id enim eu mauris cursus cursus vel sit amet tortor. Sed ultricies ligula a ex commodo tristique. Duis in urna eget leo malesuada rhoncus ut a libero.`,
+    `Nam quis nisl vitae nunc hendrerit congue vel in justo. Vestibulum efficitur orci vitae magna convallis volutpat. Praesent id augue id mi ullamcorper feugiat.`,
+    `Cras eu nisl nec turpis hendrerit fringilla vel vel ex. Nunc nec tincidunt enim. Curabitur id cursus elit. Integer fringilla, arcu vel dictum tempor, urna arcu dapibus justo, a tristique orci quam vitae nisl.`,
+    `Suspendisse potenti. Fusce ultricies facilisis nisl, in pharetra orci tincidunt at. Phasellus accumsan, eros vitae aliquet convallis, risus nisl volutpat velit, vel blandit ligula leo eu nunc.`,
+    `Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin id urna a magna congue ultricies ac vel dolor. Aliquam eu augue vitae odio fringilla hendrerit at a libero.`,
+    `Donec ac nulla eu quam sodales auctor ut sit amet nunc. Quisque eget neque a risus dignissim accumsan. Maecenas non dolor nec lacus aliquet sollicitudin vel eu mi.`
+];
+
+export default text;
